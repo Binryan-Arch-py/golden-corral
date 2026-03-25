@@ -16,8 +16,7 @@ Con este programa aprendi a usar:
 
 ## como ejecutarlo
 Para correr este programa, asegurate de tener instalado python y ejecuta:
-'''bash
-python golden.py
-'''
 
-Desarrollado por Bryan David Pérez Arana
+python golden.py
+
+### Desarrollado por Bryan David Pérez Arana
